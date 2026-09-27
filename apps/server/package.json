@@ -69,7 +69,7 @@
     "@luminatick/shared": "*",
     "hono": "^4.13.7",
     "jose": "^6.2.2",
-    "otpauth": "^9.5.0",
+    "otpauth": "^9.5.2",
     "postal-mime": "^2.1.0",
     "re2js": "^2.8.6",
     "zod": "^3.0.0"
