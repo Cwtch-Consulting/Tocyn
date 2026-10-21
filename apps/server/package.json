@@ -67,7 +67,7 @@
   },
   "dependencies": {
     "@luminatick/shared": "*",
-    "hono": "^4.13.7",
+    "hono": "^4.13.11",
     "jose": "^6.2.2",
     "otpauth": "^9.5.0",
     "postal-mime": "^2.1.0",
