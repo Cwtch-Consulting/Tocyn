@@ -71,7 +71,7 @@
     "jose": "^6.2.2",
     "otpauth": "^9.5.0",
     "postal-mime": "^2.1.0",
-    "re2js": "^2.8.6",
+    "re2js": "^2.8.7",
     "zod": "^3.0.0"
   },
   "devDependencies": {
